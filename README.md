@@ -1,4 +1,4 @@
-\# CPS High School Performance Analysis
+# CPS High School Performance Analysis
 
 
 
